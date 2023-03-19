@@ -1,0 +1,64 @@
+﻿  AVL.cpp
+  binarytree.cpp
+  bstree.cpp
+D:\c项目\datastruct\datastruct\bstree.cpp(83,17): error C3861: “FindMin”: 找不到标识符
+  Fibonacci_sequence.cpp
+D:\c项目\datastruct\datastruct\Fibonacci_sequence.cpp(10,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  headerList.cpp
+D:\c项目\datastruct\datastruct\headerList.cpp(119,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  kmp_algorithm.cpp
+D:\c项目\datastruct\datastruct\kmp_algorithm.cpp(9,11): warning C4018: “<”: 有符号/无符号不匹配
+D:\c项目\datastruct\datastruct\kmp_algorithm.cpp(21,9): warning C4018: “<”: 有符号/无符号不匹配
+D:\c项目\datastruct\datastruct\kmp_algorithm.cpp(33,15): warning C4018: “<=”: 有符号/无符号不匹配
+  LGraph.cpp
+D:\c项目\datastruct\datastruct\LGraph.cpp(163,11): warning C4101: “i”: 未引用的局部变量
+  LineHashTable.cpp
+  linkStack.cpp
+D:\c项目\datastruct\datastruct\linkStack.cpp(7,6): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+D:\c项目\datastruct\datastruct\linkStack.cpp(7,6): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\c项目\datastruct\datastruct\linkStack.cpp(7,11): error C2238: 意外的标记位于“;”之前
+D:\c项目\datastruct\datastruct\linkStack.cpp(19,15): error C2039: "top": 不是 "stack" 的成员
+D:\c项目\datastruct\datastruct\linkStack.cpp(6): message : 参见“stack”的声明
+D:\c项目\datastruct\datastruct\linkStack.cpp(20,5): error C2039: "top": 不是 "stack" 的成员
+D:\c项目\datastruct\datastruct\linkStack.cpp(6): message : 参见“stack”的声明
+D:\c项目\datastruct\datastruct\linkStack.cpp(24,9): error C2039: "top": 不是 "stack" 的成员
+D:\c项目\datastruct\datastruct\linkStack.cpp(6): message : 参见“stack”的声明
+D:\c项目\datastruct\datastruct\linkStack.cpp(26,15): error C2039: "top": 不是 "stack" 的成员
+D:\c项目\datastruct\datastruct\linkStack.cpp(6): message : 参见“stack”的声明
+D:\c项目\datastruct\datastruct\linkStack.cpp(27,5): error C2039: "top": 不是 "stack" 的成员
+D:\c项目\datastruct\datastruct\linkStack.cpp(6): message : 参见“stack”的声明
+  listset.cpp
+D:\c项目\datastruct\datastruct\listset.cpp(7,2): warning C4094: 无标记的“struct”未声明符号
+  MaxHeap.cpp
+  partition.cpp
+  priorityQueue.cpp
+  queue.cpp
+  seqlist.cpp
+D:\c项目\datastruct\datastruct\seqlist.cpp(94,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  SeqStack.cpp
+D:\c项目\datastruct\datastruct\SeqStack.cpp(57,6): warning C4551: 缺少参数列表的函数调用
+  singlelist.cpp
+D:\c项目\datastruct\datastruct\singlelist.cpp(129,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  sort.cpp
+  test1.cpp
+  一元多项式.cpp
+  正在生成代码...
+D:\c项目\datastruct\datastruct\kmp_algorithm.cpp(46): warning C4715: “KMP”: 不是所有的控件路径都返回值
+  正在编译...
+  哈夫曼树实验2.3.cpp
+  图实验3.cpp
+D:\c项目\datastruct\datastruct\图实验3.cpp(81,15): error C2660: “Init”: 函数不接受 2 个参数
+D:\c项目\datastruct\datastruct\图实验3.cpp(22,8): message : 参见“Init”的声明
+D:\c项目\datastruct\datastruct\图实验3.cpp(82,5): error C3861: “InsertEdge”: 找不到标识符
+D:\c项目\datastruct\datastruct\图实验3.cpp(83,5): error C3861: “InsertEdge”: 找不到标识符
+D:\c项目\datastruct\datastruct\图实验3.cpp(84,5): error C3861: “InsertEdge”: 找不到标识符
+D:\c项目\datastruct\datastruct\图实验3.cpp(85,5): error C3861: “InsertEdge”: 找不到标识符
+D:\c项目\datastruct\datastruct\图实验3.cpp(86,5): error C3861: “InsertEdge”: 找不到标识符
+D:\c项目\datastruct\datastruct\图实验3.cpp(87,5): error C3861: “InsertEdge”: 找不到标识符
+D:\c项目\datastruct\datastruct\图实验3.cpp(88,5): error C3861: “InsertEdge”: 找不到标识符
+D:\c项目\datastruct\datastruct\图实验3.cpp(89,5): error C3861: “InsertEdge”: 找不到标识符
+D:\c项目\datastruct\datastruct\图实验3.cpp(90,5): error C3861: “InsertEdge”: 找不到标识符
+D:\c项目\datastruct\datastruct\图实验3.cpp(91,5): error C3861: “InsertEdge”: 找不到标识符
+D:\c项目\datastruct\datastruct\图实验3.cpp(92,5): error C3861: “InsertEdge”: 找不到标识符
+D:\c项目\datastruct\datastruct\图实验3.cpp(93,5): error C3861: “InsertEdge”: 找不到标识符
+  正在生成代码...

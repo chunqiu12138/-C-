@@ -1,0 +1,5 @@
+﻿  源.cpp
+D:\c项目\datastruct\datastruct\源.cpp(24,10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\c项目\datastruct\datastruct\源.cpp(25,38): warning C4305: “+=”: 从“double”到“float”截断
+D:\c项目\datastruct\datastruct\源.cpp(26,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  datastruct.vcxproj -> D:\c项目\datastruct\x64\Debug\datastruct.exe
